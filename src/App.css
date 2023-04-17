@@ -1,0 +1,24 @@
+.head{
+    background-color: brown;
+    padding: 15px;
+    color: white;
+    align-items: center;
+    text-align: center;
+
+
+}
+
+button{
+
+    padding: 14px;
+    background-color: brown;
+    margin: 10px;
+    color: white;
+
+
+}
+/* .head2{
+    background-color: yellow;
+    padding: 10px;
+    font-size: large;
+} */
